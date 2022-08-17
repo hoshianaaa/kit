@@ -1,5 +1,2 @@
 # kit
-
-## 計画
-
-販売しているキットの説明書.Qiitaに自動投稿
+## stepping motor キット
